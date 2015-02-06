@@ -15,4 +15,6 @@ Ipyton notebook and Spark can be started as follows depending where you pyspark 
 
 `IPYTHON_OPTS="notebook --pylab inline" ./bin/pyspark`
 
+[View the notebook in a browser human readable format](http://nbviewer.ipython.org/github/rcchirwa/PySpark-Hustling/blob/master/PySpark_and_JSON.ipynb)
+
 This will launch an instance of ipython notebook with the Spark Context available to you in the notebook
